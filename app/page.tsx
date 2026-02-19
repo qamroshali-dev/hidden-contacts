@@ -26,7 +26,7 @@ export default function Home() {
     {
       icon: EyeOff,
       title: "Completely Hidden",
-      description: "Contacts stored in Hidden Label don't appear in your regular phone book or other apps."
+      description: "Contacts stored in Hidden Contact don't appear in your regular phone book or other apps."
     },
     {
       icon: Smartphone,
@@ -51,7 +51,7 @@ export default function Home() {
         <section id="features" className="py-24 bg-muted/20">
           <div className="container mx-auto px-4">
             <div className="text-center max-w-2xl mx-auto mb-16">
-              <h2 className="text-3xl font-bold mb-4">Why Choose Hidden Label?</h2>
+              <h2 className="text-3xl font-bold mb-4">Why Choose Hidden Contact?</h2>
               <p className="text-muted-foreground">
                 We prioritize your privacy above all else. Built for journalists, business professionals, and anyone who values confidentiality.
               </p>
@@ -115,7 +115,7 @@ export default function Home() {
           <div className="container mx-auto px-4 text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to secure your connections?</h2>
             <p className="text-xl text-muted-foreground mb-10 max-w-2xl mx-auto">
-              Download Hidden Label today and experience the peace of mind that comes with true privacy.
+              Download Hidden Contact today and experience the peace of mind that comes with true privacy.
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
               {/* App Store Buttons placeholders */}

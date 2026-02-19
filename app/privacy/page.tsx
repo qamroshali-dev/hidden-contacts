@@ -14,7 +14,7 @@ export default function PrivacyPage() {
                     <section>
                         <h2 className="text-2xl font-semibold mb-4">1. Introduction</h2>
                         <p>
-                            Hidden Label ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is handled when you use our mobile application.
+                            Hidden Contact ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is handled when you use our mobile application.
                         </p>
                     </section>
 
@@ -22,7 +22,7 @@ export default function PrivacyPage() {
                         <h2 className="text-2xl font-semibold mb-4">2. Data Collection and Usage</h2>
                         <p className="font-medium text-lg mb-2">We do not collect any personal data.</p>
                         <p>
-                            Hidden Label is designed as a completely offline application. All data you enter into the app (contacts, notes, etc.) is stored locally on your device and is encrypted. We do not have access to your data, your PIN, or your usage patterns.
+                            Hidden Contact is designed as a completely offline application. All data you enter into the app (contacts, notes, etc.) is stored locally on your device and is encrypted. We do not have access to your data, your PIN, or your usage patterns.
                         </p>
                     </section>
 

@@ -9,7 +9,7 @@ export function Footer() {
                     <div className="space-y-4">
                         <div className="flex items-center gap-2">
                             <Shield className="w-6 h-6 text-primary" />
-                            <span className="font-bold text-xl">Hidden Label</span>
+                            <span className="font-bold text-xl">Hidden Contact</span>
                         </div>
                         <p className="text-sm text-muted-foreground">
                             Secure, offline, and hidden. The ultimate privacy-focused contacts manager.
@@ -47,7 +47,7 @@ export function Footer() {
                 </div>
 
                 <div className="mt-12 pt-8 border-t text-center text-sm text-muted-foreground">
-                    <p>© {new Date().getFullYear()} Hidden Label. All rights reserved.</p>
+                    <p>© {new Date().getFullYear()} Hidden Contact. All rights reserved.</p>
                 </div>
             </div>
         </footer>

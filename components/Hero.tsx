@@ -63,7 +63,7 @@ export function Hero() {
                                             <Shield className="w-12 h-12" />
                                         </div>
                                         <div className="text-center space-y-2">
-                                            <h3 className="text-2xl font-bold">Hidden Label</h3>
+                                            <h3 className="text-2xl font-bold">Hidden Contact</h3>
                                             <p className="text-sm text-muted-foreground">Enter PIN to unlock</p>
                                         </div>
                                         <div className="flex gap-4 mt-8">

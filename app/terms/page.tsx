@@ -14,21 +14,21 @@ export default function TermsPage() {
                     <section>
                         <h2 className="text-2xl font-semibold mb-4">1. Agreement to Terms</h2>
                         <p>
-                            By downloading or using the Hidden Label app, these terms will automatically apply to you. You should make sure therefore that you read them carefully before using the app.
+                            By downloading or using the Hidden Contact app, these terms will automatically apply to you. You should make sure therefore that you read them carefully before using the app.
                         </p>
                     </section>
 
                     <section>
                         <h2 className="text-2xl font-semibold mb-4">2. Use of the App</h2>
                         <p>
-                            Hidden Label is provided for personal use. You are responsible for keeping your device and access to the app secure. We strongly recommend that you do not jailbreak or root your phone, which could compromise your device's security and the app's functionality.
+                            Hidden Contact is provided for personal use. You are responsible for keeping your device and access to the app secure. We strongly recommend that you do not jailbreak or root your phone, which could compromise your device's security and the app's functionality.
                         </p>
                     </section>
 
                     <section>
                         <h2 className="text-2xl font-semibold mb-4">3. PIN Recovery</h2>
                         <p>
-                            <strong className="text-primary">Important:</strong> Because Hidden Label is an offline, zero-knowledge app, we cannot recover your PIN if you forget it. You are solely responsible for remembering your PIN. If you lose your PIN, you may lose access to your stored data permanently.
+                            <strong className="text-primary">Important:</strong> Because Hidden Contact is an offline, zero-knowledge app, we cannot recover your PIN if you forget it. You are solely responsible for remembering your PIN. If you lose your PIN, you may lose access to your stored data permanently.
                         </p>
                     </section>
 

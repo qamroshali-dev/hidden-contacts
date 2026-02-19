@@ -10,7 +10,7 @@ export function Navbar() {
                     <div className="bg-primary/10 p-2 rounded-lg">
                         <Shield className="w-6 h-6 text-primary" />
                     </div>
-                    <span className="font-bold text-xl">Hidden Label</span>
+                    <span className="font-bold text-xl">Hidden Contact</span>
                 </Link>
 
                 <div className="hidden md:flex items-center gap-8">
