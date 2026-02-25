@@ -36,7 +36,7 @@ export default function Home() {
     {
       icon: Zap,
       title: "Instant Access",
-      description: "Optimized for speed. Search, call, or message your hidden contacts instantly from the app."
+      description: "Optimized for speed. Quickly search and view your saved hidden contacts instantly from the app."
     },
   ];
 
